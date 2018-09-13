@@ -1,6 +1,6 @@
 # Shorten
 
-A simple, API only, link shortener written in Elixir phoenix with no dependencies outside the Phoenix defaults.
+A simple, API only, link shortener written in Elixir Phoenix with no dependencies outside the Phoenix defaults.
 
 # Phoenix guide
 
